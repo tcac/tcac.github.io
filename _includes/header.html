@@ -1,0 +1,20 @@
+<header id="site-header">
+
+<a href="{{ '/' | prepend: site.baseurl }}" id="site-title"><h1>Truth&nbsp;Chinese Alliance&nbsp;Church</h1></a>
+
+{% if page.address_in_header %}
+<address id="site-address"><a href="http://maps.google.com/maps/?q=4047+Durfee+Ave,+El+Monte,+CA+91732" target="_blank">4047 Durfee Ave, El&nbsp;Monte, CA</a><br>
+<a href="tel:16268888888">(626) 888-8888</a>
+</address>
+{% endif %}
+
+<nav id="site-navbar">
+<ul>
+	<li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li><!--
+	{% for p in site.pages %} {% if p.title %}
+	--><li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>{% unless forloop.last %}<!--{% endunless %}
+	{% endif %} {% endfor %}
+</ul>
+</nav>
+
+</header>

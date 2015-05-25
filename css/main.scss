@@ -1,0 +1,68 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+//---from skeleton---
+// Colors
+$light-grey: #e1e1e1 !default;
+$dark-grey: #333 !default;
+$primary-color: #33c3f0 !default;
+$secondary-color: lighten($dark-grey, 13.5%) !default;
+$border-color: #bbb !default;
+$link-color: #29694f !default;
+$font-color: #504f86 !default;
+$title-color: #34336c !default;
+$background-color: #ffe9cc !default;
+$dark-background-color: #e5c599 !default;
+
+// Typography
+$font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+	"normalize",
+	"skeleton"
+;
+
+body {
+	background-color: $background-color;
+}
+
+//---header---
+#site-header {
+	margin-bottom: 1rem;
+}
+
+#site-title {
+	color: $title-color;
+	text-decoration: none;
+	h1 {
+		margin-bottom: 1rem;
+	}
+}
+
+#site-address a {
+	font-style: normal;
+	color: $font-color;
+}
+
+#site-navbar {
+	margin-top: 0.5rem;
+	background-color: $dark-background-color;
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		text-align: center;
+	}
+	li {
+		display: inline;
+	}
+	a {
+		display: inline-block;
+		border: 1px $title-color solid;
+		border-radius: 0.4rem;
+		padding: 0.3rem 1rem;
+	}
+}
