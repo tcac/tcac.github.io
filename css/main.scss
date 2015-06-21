@@ -29,7 +29,11 @@ body {
 	background-color: $background-color;
 }
 
-//---header---
+//---top---
+#banner {
+	background-color: $dark-background-color;
+}
+
 #site-header {
 	margin-bottom: 1rem;
 }
@@ -49,7 +53,6 @@ body {
 
 #site-navbar {
 	margin-top: 0.5rem;
-	background-color: $dark-background-color;
 	ul {
 		list-style-type: none;
 		margin: 0;
@@ -62,7 +65,10 @@ body {
 	a {
 		display: inline-block;
 		border: 1px $title-color solid;
-		border-radius: 0.4rem;
+		border-radius: 0.5rem 0.5rem 0 0;
 		padding: 0.3rem 1rem;
 	}
+}
+.selected {
+	background-color: $background-color;
 }

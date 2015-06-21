@@ -1,4 +1,5 @@
-<header id="site-header">
+<div id="banner">
+<header class="container" id="site-header">
 
 <a href="{{ '/' | prepend: site.baseurl }}" id="site-title"><h1>Truth&nbsp;Chinese Alliance&nbsp;Church</h1></a>
 
@@ -10,11 +11,12 @@
 
 <nav id="site-navbar">
 <ul>
-	<li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li><!--
+	<li><a href="{{ '/' | prepend: site.baseurl }}"{% if page.url == '/index.html' %} class="selected"{% endif %}>Home</a></li><!--
 	{% for p in site.pages %} {% if p.title %}
-	--><li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>{% unless forloop.last %}<!--{% endunless %}
+	--><li><a href="{{ p.url | prepend: site.baseurl }}"{% if page.url == p.url %} class="selected"{% endif %}>{{ p.title }}</a></li>{% unless forloop.last %}<!--{% endunless %}
 	{% endif %} {% endfor %}
 </ul>
 </nav>
 
 </header>
+</div>
