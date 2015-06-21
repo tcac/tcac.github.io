@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-short
+English service: Sunday 11 AM
 
 ## Contact ##
 

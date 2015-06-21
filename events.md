@@ -4,8 +4,6 @@ title: Events
 permalink: /events/
 ---
 
-VBS is soon!
-
-<calendar?>
+VBS is coming up! Click the VBS link for more information.
 
 ## Bible Study ##
