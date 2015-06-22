@@ -1,0 +1,20 @@
+//---sidebar---
+#vbs-sidebar {
+	margin-bottom: 1em;
+}
+@media (#{$bp-larger-than-mobile}) {
+#vbs-sidebar {
+	margin-bottom: 0;
+}
+}
+
+.vbs-sidebar-row {
+	margin-top: 1em;
+}
+.vbs-sidebar-row:first-child {
+	margin-top: 0;
+}
+
+.vbs-sidebar-label {
+	font-style: italic;
+}
