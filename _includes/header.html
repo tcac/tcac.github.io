@@ -10,12 +10,12 @@
 {% endif %}
 
 <nav id="site-navbar">
-<ul>
+<ul id="site-navbar-main">
 	<li><a href="{{ '/' | prepend: site.baseurl }}"{% if page.url == '/index.html' %} class="selected"{% endif %}>Home</a></li><!--
 	{% for p in site.pages %} {% if p.title %}
-	--><li><a href="{{ p.url | prepend: site.baseurl }}"{% if page.url == p.url %} class="selected"{% endif %}>{{ p.title }}</a></li>{% unless forloop.last %}<!--{% endunless %}
+	--><li><a href="{{ p.url | prepend: site.baseurl }}"{% if page.url == p.url %} class="selected"{% endif %}>{{ p.title }}</a></li><!--
 	{% endif %} {% endfor %}
-</ul>
+--></ul>
 </nav>
 
 </header>

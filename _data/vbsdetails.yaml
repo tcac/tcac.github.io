@@ -1,8 +1,8 @@
 - label: Where
   content: |
-    Truth Chinese Alliance Church<br>
+    <address>Truth Chinese Alliance Church<br>
     <a href="http://maps.google.com/maps/?q=4047+Durfee+Ave,+El+Monte,+CA+91732" target="_blank">4047 Durfee Ave.<br>
-    El Monte, CA 91732</a>
+    El Monte, CA 91732</a></address>
 
 - label: When
   content: July 11-12
@@ -12,3 +12,8 @@
 
 - label: Cost
   content: <strong>Free!</strong>
+
+- label: Contact
+  content: |
+    <a href="tel:16263795508">(626) 379-5508</a><br>
+    <a href="mailto:vbsTCAC@gmail.com">vbsTCAC@gmail.com</a>
