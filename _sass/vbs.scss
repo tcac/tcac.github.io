@@ -1,6 +1,6 @@
 //---sidebar---
 #vbs-sidebar {
-	margin-bottom: 1em;
+	margin-bottom: 2rem;
 }
 @media (#{$bp-larger-than-mobile}) {
 #vbs-sidebar {
@@ -8,11 +8,11 @@
 }
 }
 
-.vbs-sidebar-row {
-	margin-top: 1em;
-}
-.vbs-sidebar-row:first-child {
+.vbs-sidebar-row:first-of-type {
 	margin-top: 0;
+}
+.vbs-sidebar-row {
+	margin-top: 1rem;
 }
 
 .vbs-sidebar-label {
