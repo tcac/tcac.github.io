@@ -70,8 +70,14 @@ address {
 		padding: 0.3rem 1rem;
 	}
 }
-.selected {
+#site-navbar-main .selected {
 	background-color: $background-color;
+}
+#site-navbar-secondary {
+	background-color: $background-color;
+	.selected {
+		border: 2px $title-color solid;
+	}
 }
 
 @import "vbs";

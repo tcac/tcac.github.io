@@ -10,12 +10,18 @@
 {% endif %}
 
 <nav id="site-navbar">
-<ul id="site-navbar-main">
-	<li><a href="{{ '/' | prepend: site.baseurl }}"{% if page.url == '/index.html' %} class="selected"{% endif %}>Home</a></li><!--
-	{% for p in site.pages %} {% if p.title %}
+<ul id="site-navbar-main"><!--
+	{% for p in site.data.nav %}
+	--><li><a href="{{ p.url | prepend: site.baseurl }}"{% if page.url == p.url or (p.url != '/' and page.url contains p.url) %}{% assign selected = p %} class="selected"{% endif %}>{{ p.title }}</a></li><!--
+	{% endfor %}
+--></ul>{% if selected.children %}
+<ul id="site-navbar-secondary">
+	<li><a href="{{ selected.url | prepend: site.baseurl }}"{% if page.url == selected.url %} class="selected"{% endif %}>{{ selected.title }}</a></li><!--
+	{% for p in selected.children %}
 	--><li><a href="{{ p.url | prepend: site.baseurl }}"{% if page.url == p.url %} class="selected"{% endif %}>{{ p.title }}</a></li><!--
-	{% endif %} {% endfor %}
+	{% endfor %}
 --></ul>
+{% endif %}
 </nav>
 
 </header>

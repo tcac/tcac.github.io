@@ -1,0 +1,14 @@
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+  children:
+  - title: Statement of Faith
+    url: /about/statement-of-faith/
+
+- title: Events
+  url: /events/
+
+- title: VBS
+  url: /vbs/
