@@ -2,7 +2,7 @@
 #vbs-sidebar {
 	margin-bottom: 2rem;
 }
-@media (#{$bp-larger-than-mobile}) {
+@media (#{$bp-larger-than-phablet}) {
 #vbs-sidebar {
 	margin-bottom: 0;
 }
