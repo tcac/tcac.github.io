@@ -18,3 +18,22 @@
 .vbs-sidebar-label {
 	font-style: italic;
 }
+
+//---main---
+.image-full {
+	max-height: 360px;
+	width: auto;
+	margin: 0 auto;
+	display: block;
+}
+.image-left, .image-right {
+	width: 30%;
+	max-width: 200px;
+	clear: both;
+}
+.image-left {
+	float: left;
+}
+.image-right {
+	float: right;
+}

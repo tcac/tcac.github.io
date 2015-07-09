@@ -80,4 +80,13 @@ address {
 	}
 }
 
+//--content--
+.headline {
+	@extend h2;
+}
+
+img {
+	max-width: 100%;
+}
+
 @import "vbs";
