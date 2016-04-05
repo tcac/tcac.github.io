@@ -8,7 +8,7 @@ permalink: /vbs/
 
 <div class="four columns" id="vbs-sidebar" markdown="block">
 
-## [Register now!]({{ site.data.misc.vbsreg }}){:target="_blank"} ##
+## Register soon! ##
 
 ## Details ##
 
@@ -24,7 +24,7 @@ permalink: /vbs/
 
 ## About Camp Kilimanjaro ##
 
-[Printable Flyer](/files/vbsflyer2015.pdf){:target="_blank"}
+[Printable Flyer (old)](/files/vbsflyer2015.pdf){:target="_blank"}
 
 ![Camp Kilimanjaro logo](/img/vbs-camp-kilimanjaro-logo.png){:class="image-full"}
 Jambo! Welcome to TCAC's annual summer VBS. This year, we'll go on an exciting expedition through the book of Proverbs, which is full of wisdom that God has shared with us. From Proverbs, we'll learn how to make wise choices in our lives.

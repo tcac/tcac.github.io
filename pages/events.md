@@ -4,6 +4,7 @@ title: Events
 permalink: /events/
 ---
 
-VBS is coming up! Click the VBS link for more information.
+[VBS](/vbs/) is coming up!
 
 ## Bible Study ##
+Join us **Tuesdays at 6:30pm** for a bible study at Pastor Jimmy's house, followed by dinner and fellowship. Please [contact](/about/#contact) for more information.

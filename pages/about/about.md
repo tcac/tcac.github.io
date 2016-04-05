@@ -19,12 +19,12 @@ Our address is
 
 ![Map](/img/simplemap.png)
 
-Please find the best route from your location on <a href="{{ site.data.misc.gmaps }}" target="_blank">Google Maps</a>.
+Please find the best route from your location on [Google Maps]({{ site.data.misc.gmaps }}){:target="_blank"}.
 
 </div>
 
 <div class="six columns" markdown="block">
-## Contact ##
+## <a name="contact"></a>Contact ##
 Email or call us---we'll be happy to answer any questions you have.
 
 <address markdown="block">
@@ -35,3 +35,4 @@ Email or call us---we'll be happy to answer any questions you have.
 </div>
 
 ## Pastor ##
+Jimmy Li currently pastors the English congregation at TCAC. Many previous messages can be found at [sermonaudio.com]({{ site.data.misc.sa }}){:target="_blank"}.
