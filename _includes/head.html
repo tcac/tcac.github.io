@@ -8,5 +8,6 @@
 
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro" type="text/css">
 <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" type="text/css">
+{% if page.url == '/vbs/' %}<link rel="stylesheet" href="{{ "/css/vbs.css" | prepend: site.baseurl }}" type="text/css">{% endif %}
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 </head>

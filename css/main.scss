@@ -3,26 +3,12 @@
 ---
 @charset "utf-8";
 
-//---from skeleton---
-// Colors
-$light-grey: #e1e1e1 !default;
-$dark-grey: #333 !default;
-$primary-color: #33c3f0 !default;
-$secondary-color: lighten($dark-grey, 13.5%) !default;
-$border-color: #bbb !default;
-$link-color: #29694f !default;
-$font-color: #504f86 !default;
-$title-color: #34336c !default;
-$background-color: #ffedd6 !default;
-$dark-background-color: #e5c599 !default;
-
-// Typography
-$font-family: "Source Sans Pro", Arial, sans-serif !default;
-
 // Import partials from `sass_dir` (defaults to `_sass`)
+@import "variables";
+
 @import
 	"normalize",
 	"skeleton"
 ;
 
-@import "common", "vbs";
+@import "common";
