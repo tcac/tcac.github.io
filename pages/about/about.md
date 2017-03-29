@@ -4,18 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Welcome to TCAC! We meet every Sunday at 11am. Service ends around 12:15pm, and we invite you to join us for lunch (conveniently served downstairs) afterward.
-
 <div class="row">
 
 <div class="six columns" markdown="block">
 
 ## Getting Here ##
-Our address is
 
-<address markdown="span">
-[4047 Durfee Ave., El Monte, CA 91732]({{ site.data.misc.gmaps }}){:target="_blank"}
-</address>
+Our address is [4047 Durfee Ave., El Monte, CA 91732]({{ site.data.misc.gmaps }}){:target="_blank"}.
 
 ![Map](/img/simplemap.png)
 
