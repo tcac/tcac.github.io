@@ -8,7 +8,7 @@ permalink: /vbs/
 
 <div class="four columns" id="vbs-sidebar" markdown="block">
 
-## Register soon! ##
+## [Register now!]({{ site.data.misc.vbsreg }}){:target="_blank"} ##
 
 ## Details ##
 
@@ -21,6 +21,12 @@ permalink: /vbs/
 </div>
 
 <div class="eight columns" markdown="block">
+
+## Operation Arctic ##
+
+[Flyer](/files/vbsflyer2017.pdf){:target="_blank"}
+
+![Operation Arctic](/img/vbs-operation-arctic-logo.png){:class="image-full"}
 
 ## From previous years ##
 
