@@ -24,11 +24,24 @@ permalink: /vbs/
 
 ## Operation Arctic ##
 
-[Flyer](/files/vbsflyer2017.pdf){:target="_blank"}
+### [Flyer](/files/vbsflyer2017.pdf){:target="_blank"} ###
 
 ![Operation Arctic](/img/vbs-operation-arctic-logo.png){:class="image-full"}
 
+Welcome to TCAC's annual summer VBS! Join us for a weekend of fun and enjoy:
+
+* Skits
+* Songs
+* Stories
+* Games
+* Food
+* Crafts
+
 ## From previous years ##
+
+![](/img/vbs2016-1.jpg){:class="image-full"}
+
+![](/img/vbs2016-2.jpg){:class="image-full"}
 
 ![](/img/vbs2015-1.jpg){:class="image-full"}
 
