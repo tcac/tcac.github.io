@@ -24,7 +24,7 @@ permalink: /vbs/
 
 ## Operation Arctic ##
 
-### [Flyer](/files/vbsflyer2018.pdf){:target="_blank"} ###
+### [Flyer](/files/vbsflyer2019.pdf){:target="_blank"} ###
 
 ![Operation Arctic](/img/vbs-operation-arctic-logo.png){:class="image-full"}
 
