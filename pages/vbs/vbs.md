@@ -22,9 +22,9 @@ permalink: /vbs/
 
 <div class="eight columns" markdown="block">
 
-## Operation Arctic ##
+## The Incredible Race ##
 
-### [Flyer](/files/vbsflyer2018.pdf){:target="_blank"} ###
+### [Flyer](/files/vbsflyer2019.pdf){:target="_blank"} ###
 
 ![Operation Arctic](/img/vbs-operation-arctic-logo.png){:class="image-full"}
 
