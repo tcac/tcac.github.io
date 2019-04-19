@@ -26,7 +26,7 @@ permalink: /vbs/
 
 ### [Flyer](/files/vbsflyer2019.pdf){:target="_blank"} ###
 
-![Operation Arctic](/img/vbs-operation-arctic-logo.png){:class="image-full"}
+![Operation Arctic](/img/vbs-incredible-race-logo.png){:class="image-full"}
 
 Welcome to TCAC's annual summer VBS! Join us for a weekend of fun and enjoy:
 
