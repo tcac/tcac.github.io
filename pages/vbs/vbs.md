@@ -26,7 +26,7 @@ permalink: /vbs/
 
 ### [Flyer](/files/vbsflyer2019.pdf){:target="_blank"} ###
 
-![Incredible Race](/img/vbs-incredible-race-logo.png){:class="image-full"}
+![Incredible Race](/img/vbs-incredible-race-logo.PNG){:class="image-full"}
 
 Welcome to TCAC's annual summer VBS! Join us for a weekend of fun and enjoy:
 
