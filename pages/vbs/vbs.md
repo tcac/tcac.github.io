@@ -22,7 +22,7 @@ permalink: /vbs/
 
 <div class="eight columns" markdown="block">
 
-## The Incredible Race ##
+## The Incredible Race Summer 2019 VBS ##
 
 ### [Flyer](/files/vbsflyer2019.pdf){:target="_blank"} ###
 
