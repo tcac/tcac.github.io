@@ -39,13 +39,18 @@ Welcome to TCAC's annual summer VBS! Join us for a weekend of fun and enjoy:
 
 ## From previous years ##
 
-![](/img/vbs2016-1.jpg){:class="image-full"}
+![](/img/vbs2018-4.jpg){:class="image-full"}
 
-![](/img/vbs2016-2.jpg){:class="image-full"}
+![](/img/vbs2018-2.jpg){:class="image-full"}
 
-![](/img/vbs2015-1.jpg){:class="image-full"}
+![](/img/vbs2018-3.jpg){:class="image-full"}
 
-![](/img/vbs2015-2.jpg){:class="image-full"}
+![](/img/vbs2018-1.jpg){:class="image-full"}
+
+![](/img/vbs2018-5.jpg){:class="image-full"}
+
+![](/img/vbs2018-6.jpg){:class="image-full"}
+
 
 </div>
 </div>
